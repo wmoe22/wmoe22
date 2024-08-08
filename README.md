@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WaiYan MoeAung</h1>
-<h3 align="center">A Passionate Full Stack Developer from Myanmar(Burma)</h3>
+<h3 align="center">A passionate Full Stack Developer from Myanmar(Burma)</h3>
 
 - 🔭 I’m currently working on **E-commerce Project**
 
