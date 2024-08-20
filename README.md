@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm WaiYan MoeAung</h1>
 <h3 align="center">A Passionate Full Stack Developer from Myanmar(Burma)</h3>
 
-- 🔭 I’m currently working on **E-commerce Project**
+- 🔭 I’m currently working on **AI Optimize Book Website**
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on ** Real World Projects **
+- 👯 I’m looking to collaborate on **Real World Projects**
 
 - 🤝 I’m looking for help with **Redis,Upstach,Caching and DevOps**
 
