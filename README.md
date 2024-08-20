@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **NextJs Projects**
+- 👯 I’m looking to collaborate on ** Real World Projects **
 
 - 🤝 I’m looking for help with **Redis,Upstach,Caching and DevOps**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **wyam22dev@gmail.com**
 
-- 📄 Know about my me [demo.resume.link](demo.resume.link)
+- 📄 Know about my me https://www.linkedin.com/in/waiyan22/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
