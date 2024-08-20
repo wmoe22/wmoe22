@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
-- 🤝 I’m looking for help with **Redis,Upstach,Caching and DevOps**
+- 🤝 I’m looking for help with **Redis,Upstach,Caching,Graphql and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-cyan-nine-36.vercel.app/](https://portfolio-cyan-nine-36.vercel.app/)
 
