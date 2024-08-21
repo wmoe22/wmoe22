@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm WaiYan MoeAung</h1>
 <h3 align="center">A Passionate Full Stack Developer from Myanmar(Burma)</h3>
 
-- 🔭 I’m currently working on **AI Optimize Book Website**
+- 🔭 I’m currently working on **AI Power Book Website**
 
 - 🌱 I’m currently learning **DevOps**
 
