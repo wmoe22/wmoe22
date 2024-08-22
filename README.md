@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI Power Book Website**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **DevOps(AWS)**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
