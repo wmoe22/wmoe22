@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
-- 🤝 I’m looking for help with **Redis,Upstach,Caching,Graphql and DevOps**
+- 🤝 I’m looking for help with **Redis,Upstach,Caching,Graphql,AWS,Machine Learning and DevOps**
 
 - 👨‍💻 All of my projects are available at  [https://porfolio-dos.vercel.app/](https://porfolio-dos.vercel.app/)
 
