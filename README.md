@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React,NextJs and Typescript**
 
-- 📫 How to reach me **wyam22dev@gmail.com**
+- 📫 How to reach me **wyma22dev@gmail.com**
 
 - 📄 Know about me https://www.linkedin.com/in/waiyan22/
 
