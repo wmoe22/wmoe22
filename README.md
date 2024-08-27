@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **contact@wmoe.xyz**
 
-- 📄 Know about me https://www.linkedin.com/in/waiyan22/
+- 📄 Know about me https://www.linkedin.com/in/wmoe/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
