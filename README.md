@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm WaiYan MoeAung</h1>
-<h3 align="center">A Passionate Full Stack Developer from Myanmar(Burma)</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 - 🚀 Learning is one of my greatest strengths, and I thrive in environments where I'm challenged to learn and adapt quickly
 
