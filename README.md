@@ -3,13 +3,13 @@
 
 - 🚀 Learning is one of my greatest strengths, and I thrive in environments where I'm challenged to learn and adapt quickly
 
-- 🔭 I’m currently working on **Book Website**
+- 🔭 I’m currently working on **Ai Power Book Website and a Chatbot**
 
 - 🌱 I’m currently learning **DevOps(AWS)**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
-- 🤝 I’m looking for help with **Upstach,Caching, DevOps**
+- 🤝 I’m looking for help with **Upstach,Caching, DevOps and more**
 
 - 👨‍💻 All of my projects are available at  [https://wmoe.xyz/](https://wmoe.xyz/)
 
