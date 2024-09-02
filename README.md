@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Ai Power Book Website and a Chatbot**
 
-- 🌱 I’m currently learning **DevOps(AWS)**
+- 🌱 I’m currently learning **DevOps(AWS) and more**
 
 - 👯 I’m looking to collaborate on **Real World Projects**
 
