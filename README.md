@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **Ai Power Book Website and a Chatbot**
+- 🔭 I’m currently working on **Ai Power Book Website**
 
 🌱 I’m currently learning **DevOps practices, including AWS, and exploring more technologies.**
 
-- 👯 I’m looking to collaborate on **Real World Projects**
+- 👯 Excited to collaborate on real-world projects that create meaningful impact
 
 - 🤝 I’m looking for help with **Upstach,Caching, DevOps and more**
 
