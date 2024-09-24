@@ -2,17 +2,17 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **Ai Powered Book Website**
+- 🔭 I’m currently working on **AI Powered Book Website**
 
-🌱 I’m currently learning **DevOps practices, including AWS, and exploring more technologies.**
-
+🌱 I’m currently learning **Generative AI, DevOps practices, including AWS**
+#sdfsdf
 - 👯 Excited to collaborate on real-world projects that create meaningful impact
 
-- 🤝 I’m looking for help with **Upstach,Caching,Openai, DevOps and more**
+- 🤝 I’m looking for help with **Upstach, Caching, Openai, DevOps and more**
 
 - 👨‍💻 All of my projects are available at  [https://wmoe.xyz/](https://wmoe.xyz/)
 
-- 💬 Ask me about **React,NextJs and Typescript**
+- 💬 Ask me about **React, NextJs and Typescript**
 
 - 📫 How to reach me **contact@wmoe.xyz | wmoecontact@gmail.com**
 
