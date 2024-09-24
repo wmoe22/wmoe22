@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **AI Powered Book Website**
 
 🌱 I’m currently learning **Generative AI, DevOps practices, including AWS**
-#sdfsdf
+
 - 👯 Excited to collaborate on real-world projects that create meaningful impact
 
 - 🤝 I’m looking for help with **Upstach, Caching, Openai, DevOps and more**
