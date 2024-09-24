@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React,NextJs and Typescript**
 
-- 📫 How to reach me **contact@wmoe.xyz**
+- 📫 How to reach me **contact@wmoe.xyz | wmoecontact@gmail.com**
 
 - 📄 Know about me https://www.linkedin.com/in/wmoe/
 
