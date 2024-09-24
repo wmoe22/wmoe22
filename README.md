@@ -6,8 +6,6 @@
 
 🌱 I’m currently learning **Generative AI, DevOps practices, including AWS**
 
-- 👯 Excited to collaborate on real-world projects that create meaningful impact
-
 - 🤝 I’m looking for help with **Upstach, Caching, Openai, DevOps and more**
 
 - 👨‍💻 All of my projects are available at  [https://wmoe.xyz/](https://wmoe.xyz/)
