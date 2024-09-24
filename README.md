@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **Ai Power Book Website**
+- 🔭 I’m currently working on **Ai Powered Book Website**
 
 🌱 I’m currently learning **DevOps practices, including AWS, and exploring more technologies.**
 
