@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **AI Powered Book Website**
 
-🌱 I’m currently learning **Generative AI, DevOps practices, including AWS**
+🌱 I’m currently learning **Java, Generative AI, DevOps practices, AWS**
 
 - 🤝 I’m looking for help with **Upstach, Caching, Openai, DevOps and more**
 
