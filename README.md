@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, NextJs and Typescript**
 
-- 📫 How to reach me **contact@wmoe.xyz | wmoecontact@gmail.com**
+- 📫 How to reach me **Primary Email - wmoecontact@gmail.com | Secondary Email - contact@wmoe.xyz**
 
 - 📄 Know about me https://www.linkedin.com/in/wmoe/
 
