@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm WaiYan MoeAung</h1>
+<h1 align="center">Hi 👋, I'm WillMore aka WaiYan MoeAung</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 
-- 🔭 I’m currently working on **AI Powered Book Website**
 
-🌱 I’m currently learning **Java, Generative AI, DevOps practices, AWS**
 
-- 🤝 I’m looking for help with **Upstach, Caching, Openai, DevOps and more**
 
-- 👨‍💻 All of my projects are available at  [https://wmoe.xyz/](https://wmoe.xyz/)
 
-- 💬 Ask me about **React, NextJs and Typescript**
 
-- 📫 How to reach me **Primary Email - wmoecontact@gmail.com | Secondary Email - contact@wmoe.xyz**
-
+- 📫 How to reach me **Primary Email - wmoecontact@gmail.com
 - 📄 Know about me https://www.linkedin.com/in/wmoe/
 
 <h3 align="left">Connect with me:</h3>
