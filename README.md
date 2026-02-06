@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Will More aka WaiYan MoeAung</h1>
-<h3 align="center">Founder @usefreetools</h3>
+<h1 align="center">Hi 👋, I'm Will Moore aka WaiYan MoeAung</h1>
 
 
 
